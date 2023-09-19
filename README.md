@@ -18,4 +18,10 @@ Tutorial project for Django
 - See tuto.urls.py to include the routes
 
 - Run the server
-    - python3 manage.py runserver
+    - python3 manage.py runserver 
+    - shortcut : make run
+
+- When you change your db models, you've to do migrations 
+	- python3 manage.py makemigrations 
+    - python3 manage.py migrate
+    - shortcut : make migrate
