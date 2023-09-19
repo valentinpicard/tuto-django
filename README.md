@@ -1,6 +1,8 @@
 # tuto-django
 Tutorial project for Django
 
+https://www.youtube.com/watch?v=nGIg40xs9e4&ab_channel=TechWithTim
+
 ## Start with django
 
 - Go inside your work directory 
