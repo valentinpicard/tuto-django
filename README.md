@@ -39,3 +39,8 @@ https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x
 The application is separate in two parts :
 - tuto which belongs to the django settings
 - myapp which is the application
+
+
+## Learn about deployment
+
+https://www.codewithharry.com/blogpost/django-deploy-nginx-gunicorn/
