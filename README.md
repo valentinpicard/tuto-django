@@ -28,6 +28,12 @@ https://www.youtube.com/watch?v=n-FTlQ7Djqc&list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x
     - python3 manage.py migrate
     - shortcut : make migrate
 
+- Create super user :
+    - python3 manage.py createsuperuser
+    - for this tuto :
+        - user : usertest
+        - pwd : test1234
+
 ## Notes
 
 The application is separate in two parts :

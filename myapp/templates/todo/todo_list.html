@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Todo</title>
+</head>
+<body>
+  <h1>Todo List</h1>
+  <div class="todo_items">
+    {% for todo_item in todo_items %}
+    <div class="todo_items">
+      <h2><a href="#">{{ todo_item.title }}</a></h2>
+      <p>{{ todo_item.body }}</p>
+      <p>{{ todo_item.date }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>
